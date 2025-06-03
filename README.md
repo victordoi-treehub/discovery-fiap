@@ -1,4 +1,4 @@
-# Desafio Contabilizei – FIAP
+# ContabiAI - Desafio Contabilizei – FIAP
 
 A Contabilizei é uma empresa que opera em um ecossistema complexo, integrado por múltiplos sistemas, APIs, ferramentas como Power BI, CRM, plataformas de chamados e, claro, um vasto Data Lake. 
 
