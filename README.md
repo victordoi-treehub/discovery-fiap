@@ -15,8 +15,10 @@ Atualmente, a busca por informações relevantes exige que os colaboradores nave
 
 ## A Solução
 
-Este projeto propõe o desenvolvimento de uma LLM (Large Language Model) que se conecta ao ecossistema da Contabilizei utilizando o Model Context Protocol (MCP). O MCP Server será o núcleo da solução, permitindo que a LLM se integre diretamente a sistemas como Power BI, CRM, plataformas de chamados e APIs da empresa. Com isso, a LLM será capaz de:
+Este projeto propõe o desenvolvimento de uma LLM (Large Language Model) que se conecta ao ecossistema da Contabilizei utilizando o Model Context Protocol (MCP).
+O MCP Server será o núcleo da solução, permitindo que a LLM se integre diretamente a sistemas como DataLake, Power BI, CRM, plataformas de chamados e APIs da empresa. Com isso, a LLM será capaz de:
 
+- Criar um Datalake e fazer a ingestão de dados dos sistemas da Contabilizei.
 - Consultar dados disponíveis em tempo real, mesmo que não estejam no data lake.
 - Responder com precisão às perguntas feitas em linguagem natural, eliminando a necessidade de consultas técnicas complexas.
 - Fornecer informações acionáveis e relevantes, centralizando o acesso aos dados dispersos.
